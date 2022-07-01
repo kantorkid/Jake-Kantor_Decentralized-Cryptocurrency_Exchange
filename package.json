@@ -40,6 +40,7 @@
         "truffle": "^5.5.16",
         "truffle-flattener": "1.5.0",
         "truffle-hdwallet-provider-privkey": "0.3.0",
+        "web-vitals": "^2.1.4",
         "web3": "1.2.6"
     },
     "scripts": {
