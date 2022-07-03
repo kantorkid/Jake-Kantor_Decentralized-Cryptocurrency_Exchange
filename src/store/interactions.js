@@ -37,6 +37,8 @@ export const loadWeb3 = async (dispatch) => {
 }
 
 export const loadAccount = async (web3, dispatch) => {
+  const accounts = await window.ethereum.request({ method: 'eth_requestAccounts' });
+  const account = web3.utils.toChecksumAddress(accounts[0])
   const accounts = await web3.eth.getAccounts()
   const account = await accounts[0]
   if(typeof account !== 'undefined'){
