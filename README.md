@@ -4,7 +4,7 @@ A fully functional decentralized cryptocurrency exchange built on Ethereum. Trad
 
 **Author:** Jake Kantor  
 **GitHub:** [github.com/kantorkid](https://github.com/kantorkid)  
-**Demo:** [YouTube Walkthrough](https://www.youtube.com/@jakekantor)  
+**Demo:** [YouTube Walkthrough](https://youtu.be/E39Rr1eTVlo)  
 **Contact:** jake.t.kantor@gmail.com
 
 ---
